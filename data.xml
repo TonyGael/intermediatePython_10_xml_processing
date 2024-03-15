@@ -1,0 +1,38 @@
+<group>
+    <person id="1">
+        <name>Person0</name>
+        <age>25</age>
+        <weight>85</weight>
+        <height>182</height>
+    </person>
+    <person id="2">
+        <name>Person1</name>
+        <age>40</age>
+        <weight>70</weight>
+        <height>167</height>
+    </person>
+    <person id="3">
+        <name>Person2</name>
+        <age>27</age>
+        <weight>8d</weight>
+        <height>185</height>
+    </person>
+    <person id="4">
+        <name>Person3</name>
+        <age>87</age>
+        <weight>69</weight>
+        <height>173</height>
+    </person>
+        <person id="5">
+        <name>Person4</name>
+        <age>16</age>
+        <weight>58</weight>
+        <height>169</height>
+    </person>
+    <person id="6">
+        <name>Person5</name>
+        <age>54</age>
+        <weight>91</weight>
+        <height>188</height>
+    </person>
+</group>
