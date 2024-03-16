@@ -1,12 +1,12 @@
-<?xml version="1.0" ?><group>
-    <person id="33">
+<group>
+    <person id="1">
         <name>Person0</name>
         <age>25</age>
         <weight>85</weight>
         <height>182</height>
     </person>
     <person id="2">
-        <name>Tony Gael</name>
+        <name>Person1</name>
         <age>40</age>
         <weight>70</weight>
         <height>167</height>
@@ -20,7 +20,7 @@
     <person id="4">
         <name>Person3</name>
         <age>87</age>
-        <weight>115</weight>
+        <weight>69</weight>
         <height>173</height>
     </person>
         <person id="5">
@@ -35,4 +35,4 @@
         <weight>91</weight>
         <height>188</height>
     </person>
-<person id="111"><name>Akira Toriyama</name><age><67/></age><weight><81/></weight><height>167</height></person></group>
+</group>
